@@ -12,3 +12,4 @@ git log  # muestra un log de todos los commits realizados
 git diff # que nos muestra los cambios no commiteados
 git status # que nos muestra el estado de los archivos en un repo.
 git stash # que me permite guardar localmente cambios sin comitear.
+git clone # nos baja una copia de un repositorio remoto.
