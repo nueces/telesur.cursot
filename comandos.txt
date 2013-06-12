@@ -14,4 +14,4 @@ git status # que nos muestra el estado de los archivos en un repo.
 git stash # que me permite guardar localmente cambios sin comitear.
 git merge # permite resolver conflictos.
 git brach # permite crear branches.
-
+git checkout # permite cambiar entre branchs, y deshacer cambios.
