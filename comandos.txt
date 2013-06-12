@@ -1,0 +1,13 @@
+Comandos utiles de git.
+
+git init <nombre repo> # Crear un nuevo repositorio
+git add <nombre archivo> # agregar un archivo al repositorio
+git commit
+git commit <archivo> # Guarda los cambios hechos en <archivo> en el repo.
+git commit <archivo> [<archivo>]
+git commit -a # Guarde todos los cambios en todos los archivos del repo.
+git pull # actualiza la copia de nuestro repo con respecto repo.
+git push # sube los cambios commiteados a un repositorio.
+git log  # muestra un log de todos los commits realizados
+git diff # que nos muestra los cambios no commiteados
+git status # que nos muestra el estado de los archivos en un repo.
